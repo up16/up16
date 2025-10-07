@@ -22,13 +22,11 @@
 ### 📈 GitHub Activity
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=up16&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=up16&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 #### 🔥 Streak & Contributions
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=up16&theme=tokyonight&hide_border=true)  
-![Small Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=up16&theme=tokyo-night&hide_border=true&height=200)
 
 ---
 
