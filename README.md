@@ -2,9 +2,6 @@
 
 ### 💻 Frontend Engineer | Ex-Intel | Ex-ResMed | Ex-Reliance
 
-I’m a **Frontend Developer** passionate about building scalable, user-centric web applications that merge great design with powerful engineering.  
-With experience at **Intel**, **ResMed**, and **Reliance**, I’ve contributed to products spanning **DevOps automation**, **data visualization**, and **system reliability** — learning how software and infrastructure come together to deliver impactful user experiences.
-
 ---
 
 ### 🚀 What I Work On
@@ -24,10 +21,9 @@ With experience at **Intel**, **ResMed**, and **Reliance**, I’ve contributed t
 
 ### 📈 GitHub Activity
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh-das&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-das&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=up16&layout=compact&theme=tokyonight)  
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishabh-das&theme=tokyo-night)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=up16&theme=tokyo-night)
 
 ---
 
