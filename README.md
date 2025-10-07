@@ -31,8 +31,8 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-das)  
-- 🧑‍💻 [GitHub](https://github.com/rishabh-das)
+- 💼 [LinkedIn](https://www.linkedin.com/in/up16)  
+- 🧑‍💻 [GitHub](https://github.com/up16)
 
 ---
 
